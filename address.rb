@@ -1,3 +1,4 @@
+
 class Address
 	attr_accessor :city, :street, :house, :apart
 
